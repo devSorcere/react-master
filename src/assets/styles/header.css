@@ -1,0 +1,18 @@
+.flex {
+    display: flex;
+}
+
+.flex.justify-between {
+    justify-content: space-between;
+}
+
+.py-1 {
+    padding: 1rem 0;
+}
+
+.border-b-1 {
+    border-bottom: 1px solid black;
+}
+.justify-center{
+    justify-content: center;
+}
